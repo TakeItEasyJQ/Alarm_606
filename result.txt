@@ -1,0 +1,5 @@
+dll path :D:/eclipse-workspace/606Angsu/config/dll64/HCNetSDK.dll
+注册失败  错误代码：7
+注册成功
+布防成功
+当前后台提交地址为：http://zh.pc.api.angsuxx.smart.orhontech.com/api/teacher/v1/get/teacher/auth
